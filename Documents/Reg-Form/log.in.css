@@ -1,0 +1,198 @@
+body{
+    background-image: linear-gradient(to right, rgb(245, 197, 155) ,rgb(248, 194, 248));
+    background-size: cover;
+    overflow: hidden;
+}
+.header{
+    font-family: pacific;
+}
+.ContainerBox{
+    margin: 50px;
+    display: flex;
+   
+    
+    
+}
+.ContainerBox >div{
+    margin: auto;
+   
+   
+}
+
+.Box1{
+    width: 346px;
+    height: 530px;
+    background-color: rgb(233, 182, 138);
+    padding: 20px;
+    background-image: url("image-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-size: 250px 200px;
+    background-position: 50% 200px;   
+}
+.Box2{
+    width: 830px;
+    height: 570px;
+    background-color: white;
+    margin-right: -50px;
+}     
+form{
+    margin: 197px;
+    margin-top: 40px;
+    
+ } 
+ .Footer h6{
+     margin: 15% 0  0 0%;  
+ }
+ header{
+    font-family: 'Updock', cursive;
+    font-size: 35px;
+ }
+
+ .Box1 h2{
+    color: rgb(233, 116, 33);
+ }
+
+ .Box1 h5{
+     margin: 25% 0 0  0;
+     color: rgb(233, 116, 33);
+ }
+ h4{
+     text-align: center;
+ }
+ .regform{
+     color: black;
+     padding-left: 570px;   
+ }
+.Identity{
+    display: flex;   
+}
+.fullname{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 50px;   
+}
+.fullname input{
+    height: 23px;
+    border-radius: 5px;
+    background-color: rgb(231, 231, 231);
+    border: gainsboro;
+    margin-top: 5px;
+}
+.username{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.username input{
+    height: 23px;
+    border-radius: 5px;
+    background-color: rgb(231, 231, 231);
+    border: gainsboro;
+    margin-top: 5px;
+}
+.email{
+    width: 380px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: rgb(231, 231, 231);
+    border: gainsboro;
+    height: 25px;
+    border-radius: 5px;
+}
+.password{
+    width: 380px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    background-color: rgb(231, 231, 231);
+    border: gainsboro;
+    height: 25px;
+    border-radius: 5px;
+    
+}
+.row{
+    margin-bottom: 15px;
+}
+.row h5{
+    margin-top: -25px;
+    margin-left: 5%;
+    padding-top: 20px;   
+}
+.row checkbox
+ 
+input{
+    background-color: rgb(231, 231, 231);
+    bottom: grey;
+    height: 60px;
+    border-radius: 4px;   
+}
+button{
+    height: 30px;
+    background-color: rgb(240, 85, 137);
+    color: white;
+    width: 176px;
+    border-radius: 5px;
+    border: gainsboro;
+
+    
+}
+.Google {
+    background-color: rgb(38, 178, 233); 
+    width: 250px;
+    height: 35px; 
+    border-radius: 5px;
+    border: gainsboro;     
+}
+a{
+    text-decoration: none;
+}
+.Google a{
+    color: white;
+
+}
+.Twitter{
+    background-color: rgb(231, 231, 231);
+    border-color: antiquewhite;
+    width: 35px;
+    border-radius: 5px; 
+    height: 35px;  
+}
+.Twitter a{
+    color: grey;
+}
+.Facebook{
+    background-color: rgb(231, 231, 231);
+    border-color: antiquewhite;
+    width: 35px;
+    border-radius: 5px;
+    height: 35px;
+   
+}
+.Facebook a{
+    color: grey;
+    
+}
+img{
+    width: 370px;
+    
+    margin-top: 65px;
+}
+.alignment{
+    display: flex;
+    margin-top: 10px;
+   
+}
+hr{
+    width: 175px;
+}
+
+    
+
+
+
+
+
+
+
+
+
+  
+
